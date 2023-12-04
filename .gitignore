@@ -1,0 +1,4 @@
+# The generated executable 
+out
+Cargo.lock
+target/

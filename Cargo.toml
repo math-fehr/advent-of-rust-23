@@ -1,0 +1,15 @@
+[package]
+name = "advent-of-rust-2023"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name = "day1-part1"
+path = "day1/part1.rs"
+
+[[bin]]
+name = "day1-part2"
+path = "day1/part2.rs"
